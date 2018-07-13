@@ -5,7 +5,8 @@
 clone the repository
 
 ```
-git clone
+git clone git@github.com:Wiredcraft/Resketch.git
+cd Resketch
 ```
 
 open a terminal window and execute the following command.  
