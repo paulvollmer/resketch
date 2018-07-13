@@ -1,4 +1,8 @@
 # Resketch
+## !!! THIS PROJECT IS IN EARLY STAGE - DO NOT USE IN PRODUCTION !!!
+
+### motivation
+the motivation behind the project is to connect the designer closer into the application development. with `Resketch` it is possible to `import` a sketch artboard to your react app and use it as a Component.
 
 ### run the demo
 
@@ -20,3 +24,8 @@ _this will read the the sketch file and build the react component code._
 ```
 make demo-build
 ```
+
+## ideas
+- create a cli with different renderer (svg, png, custom-code)
+- export symbols and artboards
+- create props for the component to change color, size, etc.
