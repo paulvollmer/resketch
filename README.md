@@ -25,6 +25,15 @@ _this will read the the sketch file and build the react component code._
 make demo-build
 ```
 
+#### Troubleshoot & prerequisits
+
+the project needs to have:
+```
+make //gnu make command installed
+nodemon //a tool to reload node.js while developing
+```
+
+
 ## ideas
 - create a cli with different renderer (svg, png, custom-code)
 - export symbols and artboards
